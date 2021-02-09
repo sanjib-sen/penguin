@@ -1,4 +1,4 @@
-package penguin.model;
+package com.penguin.model;
 
 public class Course{
     public String teachersName;

@@ -1,4 +1,4 @@
-package penguin.model;
+package com.penguin.model;
 public class Routine {
     public int day, hr;
     public Routine(int daytime, int hrs){

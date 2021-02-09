@@ -1,5 +1,5 @@
-package penguin.service;
-import penguin.repository.*;
+package com.penguin.service;
+import com.penguin.repository.*;
 import java.util.Arrays;
 class Services {
     int count;

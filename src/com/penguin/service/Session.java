@@ -1,4 +1,4 @@
-package penguin.service;
+package com.penguin.service;
 import java.util.Scanner;
 public class Session{
     static Services service;

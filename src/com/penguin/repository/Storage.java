@@ -1,5 +1,5 @@
-package penguin.repository;
-import penguin.model.*;
+package com.penguin.repository;
+import com.penguin.model.*;
 public class Storage {
     Course [] courses;
     int count;
